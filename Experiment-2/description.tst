@@ -12,7 +12,7 @@ Make one file called index.html.
 Make another file called styles.css.
 In index.html, write the HTML code. It has one big box (inner container), inside that we show the balance using <h2> tag and two buttons using <button> tags.
 In styles.css, write the CSS code to make it look nice.
-We use Flexbox to keep the card in the center of the page.
+We use Flexbox to keep the container in the center of the page.
 We give white background to the inner container(div class), and shadow to make it look like a real card.
 The balance is green color. Deposit button is green. Withdraw button is red.
 Connect styles.css in the index.html using <link> tag.
