@@ -1,0 +1,33 @@
+/* Set font style for the whole page */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;   /* space inside page */
+}
+
+/* Box design for character counter area */
+.container {
+  border: 1px solid #000;   /* black border around box */
+  padding: 20px;            /* space inside box */
+  margin-bottom: 30px;      /* gap below box */
+  max-width: 500px;         /* box will not go wider than 500px */
+}
+
+/* Heading style */
+h2 {
+  margin-top: 0;   /* remove extra space from top */
+}
+
+/* Text area box styling */
+textarea {
+  width: 100%;       /* take full width of container */
+  height: 100px;     /* fixed height */
+  padding: 10px;     /* space inside textarea */
+  font-size: 14px;   /* text size */
+  resize: vertical;  /* user can resize only up & down */
+}
+
+/* Character counter style */
+.counter {
+  font-weight: bold;   /* make text bold */
+  margin-top: 10px;    /* gap above counter */
+}
