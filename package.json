@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Tanu040/my-project#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
   }
 }
