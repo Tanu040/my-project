@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Tanu040/my-project#readme",
   "dependencies": {
     "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.18.2",
     "node": "^24.9.0",
     "nodemon": "^3.1.10"
